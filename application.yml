@@ -1,4 +1,5 @@
-
+application:
+  name: Ghtaka 
 eureka:
   instance:
     prefer-ip-address: true
